@@ -22,6 +22,8 @@ Use the included javascript actions in your nanoflows as needed
 
 ![image-20201211141406960](README.assets/image-20201211141406960.png)
 
+![image-20201211151951636](README.assets/image-20201211151951636.png)
+
 ### TODO
 
 - [ ] Expose JS actions as nanoflow activities
